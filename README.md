@@ -1,5 +1,10 @@
 # 2D_array_clustering
-Displays 2D Array Cluster of Students having greater than specified average marks.
+OBJECTIVE:
+Displays the best cluster of students having maximum total score than specified average marks.
+
+INPUT:
+2D-Array having fields as studentName, studentRollNo, Test1 marks, Test2 marks, Test3 marks.
+
 OUTPUT:
 Average marks of all Students of T1, T2, T3 :  [189, 183, 166, 267, 185, 162, 274, 220, 151, 139]
 Data of Students with greatest cluster are :
